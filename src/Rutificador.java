@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class Rutificador {
 
     public static void main(String[] args){
-        System.out.print("El digito verificador esss: "+ digitoVerificador());
+        System.out.print("El digito verificador es: "+ digitoVerificador());
     }
 
     public static int ingresarRut(){
